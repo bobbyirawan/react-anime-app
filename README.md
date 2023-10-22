@@ -1,8 +1,10 @@
-# React + Vite
+# anime app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## implementation
+1. component composition
+2. lifting state up
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## how to run ?
+1. clone project
+2. ```bash yarn install```
+3. ```bash yarn dev```
